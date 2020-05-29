@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdd873f0-1928-47e2-8a51-e523803a3444" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1a2L35RvR683Fh5RTKvGiDLN1Ci" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager" selected="Application.MazeSolverWithPower">
+    <configuration name="MazeSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MazeSolver" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeSolverNaive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MazeSolverNaive" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeSolverWithPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MazeSolverWithPower" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MazeSolverWithPower" />
+        <item itemvalue="Application.MazeSolver" />
+        <item itemvalue="Application.MazeSolverNaive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdd873f0-1928-47e2-8a51-e523803a3444" name="Default Changelist" comment="" />
+      <created>1585928539666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585928539666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586243125758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586243125758" />
+    <state width="724" height="264" key="GridCell.Tab.0.bottom" timestamp="1586362831136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586362831136" />
+    <state width="724" height="264" key="GridCell.Tab.0.center" timestamp="1586362831135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586362831135" />
+    <state width="724" height="264" key="GridCell.Tab.0.left" timestamp="1586362831135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586362831135" />
+    <state width="724" height="264" key="GridCell.Tab.0.right" timestamp="1586362831135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586362831135" />
+    <state width="724" height="264" key="GridCell.Tab.1.bottom" timestamp="1586362831137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="264" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586362831137" />
+    <state width="724" height="264" key="GridCell.Tab.1.center" timestamp="1586362831136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="264" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586362831136" />
+    <state width="724" height="264" key="GridCell.Tab.1.left" timestamp="1586362831136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="264" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586362831136" />
+    <state width="724" height="264" key="GridCell.Tab.1.right" timestamp="1586362831136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="264" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586362831136" />
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586184188838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586184188838" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1586230379876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586230379876" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586058867712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586058867712" />
+  </component>
+</project>

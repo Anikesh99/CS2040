@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="694029d5-d74a-4bf9-a4bd-decabdeaad66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X7Q38hWehZz0c8UT0I1pIXr9MD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Sorters.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager" selected="Application.SortTestExample">
+    <configuration name="SortTestExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortTestExample" />
+      <module name="PS3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SorterATester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SorterATester" />
+      <module name="PS3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingTester" />
+      <module name="PS3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortTestExample" />
+        <item itemvalue="Application.SortingTester" />
+        <item itemvalue="Application.SorterATester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="694029d5-d74a-4bf9-a4bd-decabdeaad66" name="Default Changelist" comment="" />
+      <created>1580394451197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580394451197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="694" y="128" key="FileChooserDialogImpl" timestamp="1580394692032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="694" y="128" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580394692032" />
+    <state width="726" height="214" key="GridCell.Tab.0.bottom" timestamp="1581315283401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581315283401" />
+    <state width="726" height="214" key="GridCell.Tab.0.center" timestamp="1581315283401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581315283401" />
+    <state width="726" height="214" key="GridCell.Tab.0.left" timestamp="1581315283401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581315283401" />
+    <state width="726" height="214" key="GridCell.Tab.0.right" timestamp="1581315283401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581315283401" />
+    <state x="755" y="0" width="781" height="824" key="SettingsEditor" timestamp="1580394721230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="755" y="0" width="781" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580394721230" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581300923102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581300923102" />
+    <state x="0" y="0" width="738" height="824" key="find.popup" timestamp="1580622793645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="738" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580622793645" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1581012672843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581012672843" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580735186685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580735186685" />
+  </component>
+</project>
